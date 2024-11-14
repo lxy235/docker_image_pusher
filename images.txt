@@ -1,1 +1,4 @@
-filebeat:8.5.3
+nginx
+filebeat
+golang
+alpine
