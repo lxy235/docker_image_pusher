@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 golang:1.22.1
 alpine:latest
+nginx:latest
